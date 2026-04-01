@@ -109,7 +109,7 @@ Model is loaded at runtime and served through a FastAPI prediction endpoint.
 
 🐳 Run the Project (Recommended – Docker)
 1️⃣ Clone the Repository
-git clone https://github.com/ravinda-dot/agri-insight.git
+git clone https://github.com/ravinda-gogineni/agri-insight.git
 cd agri-insight
 
 2️⃣ Start Everything
@@ -168,7 +168,7 @@ Agriculture data experimentation & research
 🧑‍💻 Author
 
 Ravindra
-GitHub: https://github.com/ravinda-dot
+GitHub: https://github.com/ravinda-gogineni
 
 📌 Future Enhancements
 
